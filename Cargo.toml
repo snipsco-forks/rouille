@@ -30,7 +30,7 @@ serde_json = "1"
 sha1 = "0.6.0"
 term = "0.5.1"
 time = "0.1.31"
-tiny_http = { git = "https://github.com/snipsco-forks/tiny-http", branch = "rustls+deadlock" }
+tiny_http = { git = "https://github.com/snipsco-forks/tiny-http", rev = "6a4562e" }
 url = "1.2"
 threadpool = "1"
 num_cpus = "1"
